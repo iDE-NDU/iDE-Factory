@@ -1,0 +1,10 @@
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\bin\x64\Debug\iDE Factory.exe.config
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\bin\x64\Debug\iDE Factory.exe
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\bin\x64\Debug\iDE Factory.pdb
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\obj\x64\Debug\iDE_Factory.Form1.resources
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\obj\x64\Debug\iDE_Factory.Resources.resources
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\obj\x64\Debug\iDE Factory.vbproj.GenerateResource.Cache
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\obj\x64\Debug\iDE Factory.vbproj.CoreCompileInputs.cache
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\obj\x64\Debug\iDE Factory.exe
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\obj\x64\Debug\iDE Factory.pdb
+C:\Users\凌莞\source\repos\iDE Factory\iDE Factory\obj\x64\Debug\iDE Factory.vbprojResolveAssemblyReference.cache
